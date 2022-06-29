@@ -1,4 +1,5 @@
 # My First Course on Convex Optimization
+![](https://visitor-badge.glitch.me/badge?page_id=Doslim.My-First-Course-on-Convex-Optimization)
 
 This repository contains lecture notes on convex optimization, including the following contents (to be updated):
 
